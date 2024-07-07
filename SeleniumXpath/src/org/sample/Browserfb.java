@@ -13,7 +13,7 @@ public class Browserfb {
 		//2.to launch chrome browser
 		WebDriver driver = new ChromeDriver();
 		
-		//3.to launch url
+		//3.to launch url //
 		driver.get("http://www.facebook.com/");
 		
 		//maximize
